@@ -32,6 +32,8 @@
   },
   "devDependencies": {
     "babel-loader": "8.0.5",
-    "dotenv-webpack": "^8.1.0"
+    "dotenv-webpack": "^8.1.0",
+    "eslint-webpack-plugin": "^4.2.0",
+    "react-app-rewired": "^2.2.1"
   }
 }
